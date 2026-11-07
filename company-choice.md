@@ -11,7 +11,7 @@ Dominio del mapa operativo: Conozco en detalle la operativa y las interacciones 
 El reto de dar el salto: La frase "Ya no es suficiente" resume justo por qué estoy aquí. El modelo tradicional de HealthCore se ha quedado corto y necesita innovar para no morir de éxito; no se me ocurre mejor escenario para aprender a escalar una empresa combinando tecnología, eficiencia y empatía por el paciente.
 
 ## Enlace al Briefing de la empresa HealthCore
-https://github.com/4GeeksAcademy/ai-engineering-syllabus/blob/main/content/contexts/00-general-contexts/CONTEXT-healthcore-briefing.es.md
+https://github.com/4GeeksAcademy/Company_Irenemor_HealthCore/blob/main/BRIEFING.md
 
 ## Departamentos Interesantes
 De los departamentos mencionados, los que más interesantes me parecen son:
